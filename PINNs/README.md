@@ -1,3 +1,10 @@
-# PINNs
+# Physics-Informed Neural Networks (PINNs)
 
-Physics-Informed Neural Networks for engineering and physical systems.
+This section contains tutorials, examples and research-oriented implementations of Physics-Informed Neural Networks for engineering and physical systems.
+
+Topics include:
+
+- Dynamical systems
+- Mechanical systems
+- Heat transfer
+- Thermodynamics
